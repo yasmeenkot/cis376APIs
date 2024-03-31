@@ -7,6 +7,3 @@ Open Postman, set request type to 'GET' and enter URL (http://127.0.0.1:5000/twe
 For restAPI3, include the id of the tweet to test: http://localhost:5000/tweets/id
 
 For restAPI4, include the screen_name of the user to test: http://localhost:5000/tweets/screen_name
-
-After testing with Postman, stop running of the current Python file before running and testing the next one 
-
